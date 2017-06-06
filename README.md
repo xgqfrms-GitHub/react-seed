@@ -10,12 +10,13 @@ $ npm i -D react-seed
 # OR
 
 $ yarn add react-seed
+$ yarn add react-seed -D
 
-$ yarn add react-seed --dev
-$ yarn add react-seed --peer 
-$ yarn add react-seed --optional
 
 ```
+
+
+
 
 ## npm package
 
