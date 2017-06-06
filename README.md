@@ -54,6 +54,10 @@ json servver
 
 mongodb online
 
+.editorconfig
+
+eslint.json
+
 
 
 
